@@ -33,7 +33,7 @@ const bigNumber = 3456543576654356754n
 const heros = ["shaktiman", "naagraj", "doga"];
 // object
 let myObj = {
-    name: "hitesh",
+    name: "Melon",
     age: 22,
 }
 // function
